@@ -36,7 +36,6 @@
 
 ## 🔹 Connect
 - 💼 [LinkedIn](https://linkedin.com/in/aibaldwin)  
-- 📝 [Medium Blog](https://medium.com/@arliebaldwin) — write-ups on quant & data projects  
 - 📧 Email: arlietab@yahoo.com 
 
 
